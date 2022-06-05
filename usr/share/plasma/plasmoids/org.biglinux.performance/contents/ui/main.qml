@@ -29,10 +29,10 @@ Item {
 
     function toggleCompositing() {
         if (kwindowsystem.compositingActive) {
-            executable.exec('qdbus org.kde.KWin /Compositor suspend')
+            executable.exec('qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"')
             executable.exec('kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "false"')
         } else {
-            executable.exec('qdbus org.kde.KWin /Compositor resume')
+            executable.exec('qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"')
             executable.exec('kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "true"')
         }
     }

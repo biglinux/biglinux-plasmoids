@@ -17,8 +17,8 @@
         "Icon": "big-performance-on",
         "Id": "org.biglinux.performance",
         "License": "GPL-2.0+",
-        "Name": "Big Performance",
-        "Name[pt_BR]": "Big Performance",
+        "Name": "Performance",
+        "Name[pt_BR]": "Performance",
         "ServiceTypes": [
             "Plasma/Applet"
         ],
