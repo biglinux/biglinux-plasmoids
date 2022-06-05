@@ -15,7 +15,7 @@
         "Description[pt_BR]": "Ativar/Desativar",
         "EnabledByDefault": true,
         "Icon": "big-performance-on",
-        "Id": "org.kde.plasma.big-performance",
+        "Id": "org.biglinux.big-performance",
         "License": "GPL-2.0+",
         "Name": "Big Performance",
         "Name[pt_BR]": "Big Performance",
