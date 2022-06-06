@@ -11,8 +11,8 @@
             }
         ],
         "Category": "Graphics",
-        "Description": "Enable/Disable",
-        "Description[pt_BR]": "Ativar/Desativar",
+        "Description": "Disables the effects of desktop, leaves the system faster and reduces energy consumption",
+        "Description[pt_BR]": "Desativa os efeitos do desktop, deixa o sistema mais rápido e reduz o consumo de energia",
         "EnabledByDefault": true,
         "Icon": "big-performance-on",
         "Id": "org.biglinux.performance",
