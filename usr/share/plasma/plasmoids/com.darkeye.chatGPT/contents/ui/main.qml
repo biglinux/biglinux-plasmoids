@@ -209,7 +209,8 @@ Item {
         }
         Row {
             id:toolRow
-            Layout.alignment:Qt.AlignBottom
+            Layout.alignment:Qt.AlignBottom | Qt.AlignHCenter
+            width: parent.width
             height:24 * PlasmaCore.Units.devicePixelRatio
             spacing: 5 *  PlasmaCore.Units.devicePixelRatio
             Button {
