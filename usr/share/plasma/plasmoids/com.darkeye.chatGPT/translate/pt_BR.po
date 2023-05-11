@@ -35,7 +35,7 @@ msgstr "Enviar mensagem com \"Enter\""
 
 #: ../contents/ui/configGeneral.qml
 msgid "When checked pressing Enter will send the query to ChatGPT."
-msgstr "Quando marcado a mensage será mandada ao pressionar \"Enter\""
+msgstr "Quando marcado a mensagem será mandada ao pressionar \"Enter\""
 
 #: ../contents/ui/configGeneral.qml
 msgid "For now please reload the page with the 'Reload' Button after changing this configuration."
