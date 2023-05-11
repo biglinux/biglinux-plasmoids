@@ -1,0 +1,70 @@
+# Translation of chatGPT in pt_BR
+# Copyright (C) 2023
+# This file is distributed under the same license as the chatGPT package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: chatGPT\n"
+"Report-Msgid-Bugs-To: https://github.com/dark-eye/com.darkeye.chatGPT\n"
+"POT-Creation-Date: 2023-05-10 21:11-0300\n"
+"PO-Revision-Date: 2023-05-10 21:00-0300\n"
+"Last-Translator: Douglas Guimarães <dg2003gh@gmail.com>\n"
+"Language-Team: BigLinux team <https://github.com/biglinux/>\n"
+"Language: pt_BR \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../metadata.desktop
+msgid "ChatGPT plasmoid for Plasma"
+msgstr "ChatGPT plasmoid para o Plasma "
+
+#: ../metadata.desktop
+msgid "ChatGPT"
+msgstr "ChatGPT"
+
+#: ../contents/config/config.qml
+msgid "General"
+msgstr "Geral"
+
+#: ../contents/ui/configGeneral.qml
+msgid "Send On Enter"
+msgstr "Enviar mensagem com \"Enter\""
+
+#: ../contents/ui/configGeneral.qml
+msgid "When checked pressing Enter will send the query to ChatGPT."
+msgstr "Quando marcado a mensage será mandada ao pressionar \"Enter\""
+
+#: ../contents/ui/configGeneral.qml
+msgid "For now please reload the page with the 'Reload' Button after changing this configuration."
+msgstr "Por enquanto, por favor, pressione o botão \"Recarregar\" após mudar essa configuração."
+
+#: ../contents/ui/configGeneral.qml
+msgid "Match OS theme"
+msgstr "Usar o tema do sistema"
+
+#: ../contents/ui/main.qml
+msgid "Chat-GPT"
+msgstr "Chat-GPT"
+
+#: ../contents/ui/main.qml
+msgid "Paste the accesss link that was send to your email."
+msgstr "Cole o link de acesso que foi enviado para você via E-mail."
+
+#: ../contents/ui/main.qml
+msgid "Reload"
+msgstr "Recarregar"
+
+#: ../contents/ui/main.qml
+msgid "Im a Pro"
+msgstr "Sou Pro"
+
+#: ../contents/ui/main.qml
+msgid "Back to ChatGPT"
+msgstr "Voltar ao ChatGPT"
+
+#: ../contents/ui/main.qml
+msgid "Debug"
+msgstr "Debug"
