@@ -77,6 +77,7 @@ Item {
         
         anchors.fill: parent
         Row {
+            Layout.alignment:Qt.AlignHCenter
             spacing:2 * PlasmaCore.Units.devicePixelRatio
             PlasmaCore.SvgItem {
                 height:parent.height
