@@ -69,7 +69,7 @@
             "desktop"
         ],
         "Icon": "battery-full",
-        "Id": "org.biglinux.battery&performance",
+        "Id": "org.biglinux.batteryandperformance",
         "License": "GPL-2.0+",
         "Name": "Biglinux battery, Brightness and system performance",
         "Name[pt_BR]": "Biglinux bateria, brilho da tela e desempenho do sistema",

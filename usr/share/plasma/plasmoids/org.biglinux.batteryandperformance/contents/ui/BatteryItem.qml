@@ -14,7 +14,7 @@ import org.kde.plasma.core 2.1 as PlasmaCore
 import org.kde.plasma.extras 2.0 as PlasmaExtras
 import org.kde.plasma.workspace.components 2.0
 
-import "logic.js" as Logic
+import "Handler/logic.js" as Logic
 
 PlasmaComponents3.ItemDelegate {
     id: root

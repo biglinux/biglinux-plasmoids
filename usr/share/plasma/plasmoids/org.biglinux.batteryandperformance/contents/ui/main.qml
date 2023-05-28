@@ -15,7 +15,7 @@ import org.kde.kquickcontrolsaddons 2.1 // For KCMShell
 import org.kde.plasma.core 2.1 as PlasmaCore
 import org.kde.plasma.plasmoid 2.0
 
-import "logic.js" as Logic
+import "Handler/logic.js" as Logic
 
 Item {
     id: batterymonitor
@@ -104,7 +104,7 @@ Item {
     function action_energyinformationkcm() {
         KCMShell.openInfoCenter("kcm_energyinfo");
     }
-
+    
     function action_showPercentage() {
         if (!Plasmoid.configuration.showPercentage) {
             Plasmoid.configuration.showPercentage = true;
@@ -113,11 +113,12 @@ Item {
         }
     }
 
+
     Plasmoid.switchWidth: PlasmaCore.Units.gridUnit * 10
     Plasmoid.switchHeight: PlasmaCore.Units.gridUnit * 10
-    Plasmoid.title: (hasBatteries && hasBrightness ? i18n("Battery and Brightness") :
-                                     hasBrightness ? i18n("Brightness") :
-                                     hasBatteries ? i18n("Battery") : i18n("Power Management"))
+    Plasmoid.title: (hasBatteries && hasBrightness ? i18n("Biglinux Battery and Brightness") :
+                                     hasBrightness ? i18n("Biglinux Brightness") :
+                                     hasBatteries ? i18n("biglinux Battery") : i18n("Biglinux Power Management"))
 
     LayoutMirroring.enabled: Qt.application.layoutDirection == Qt.RightToLeft
     LayoutMirroring.childrenInherit: true

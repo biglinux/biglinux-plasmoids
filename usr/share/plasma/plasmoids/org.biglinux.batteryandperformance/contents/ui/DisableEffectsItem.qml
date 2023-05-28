@@ -14,8 +14,8 @@ import org.kde.kwindowsystem 1.0
 import org.kde.plasma.components 3.0 as PlasmaComponents3
 import org.kde.plasma.core 2.1 as PlasmaCore
 
+import "Handler/logic.js" as Logic
 
-import "logic.js" as Logic
 
 Item {
     id: root
@@ -24,11 +24,13 @@ Item {
         id: kwindowsystem
     }
     property bool compActive: kwindowsystem.compositingActive
+    property alias cfg_toggleDesktopEffect: disableEffectsCheckBox.checked
             
     PlasmaComponents3.CheckBox {
         id: disableEffectsCheckBox
         Layout.fillWidth: true
-        onClicked: Logic.toggleCompositing()
+        onCheckedChanged: Logic.toggleCompositing()
+        checked: Plasmoid.configuration.toggleDesktopEffect 
         text: i18n("Disable desktop effects")
         focus: true
         KeyNavigation.down: pmSwitch.pmCheckBox

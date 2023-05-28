@@ -1,0 +1,26 @@
+[Desktop Entry]
+Icon=battery-full
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/Kickoff.qml
+X-Plasma-Provides=org.kde.plasma.powermanagement
+
+X-Plasma-RequiredExtensions=LaunchApp
+
+X-KDE-PluginInfo-Authors=Sebastian Kügler, Kai Uwe Broulik, Douglas Gabriel
+X-KDE-PluginInfo-Emails=sebas@kde.org, kde@privat.broulik.de, dg2003gh@gmail.com
+X-KDE-PluginInfo-Name=org.biglinux.batteryandperformance
+X-KDE-PluginInfo-Version=3.0
+X-KDE-PluginInfo-Website=https://github.com/biglinux/biglinux-plasmoids
+X-KDE-PluginInfo-Category=Hardware
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-EnabledByDefault=true
+
+Name=Biglinux battery, Brightness and system performance
+Comment=See the power status of your battery and manage performance
+
+
+Name[pt_BR]=Biglinux bateria, brilho da tela e desempenho do sistema
+Comment[pt_BR]=Verificar o status de energia da sua bateria e gerenciar o desempenho

@@ -4,13 +4,15 @@
       xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
       http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
   <kcfgfile name=""/>
-
   <group name="General">
     <entry name="showPercentage" type="bool">
       <label>If true, the battery will display a little charge percentage label inside.</label>
       <default>false</default>
     </entry>
+    <entry name="toggleDesktopEffect" type="bool">
+      <label>If true, the plasma desktop effects will be disabled.</label>
+      <default>true</default>
+    </entry>
   </group>
-
 </kcfg>
 
