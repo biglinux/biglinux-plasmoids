@@ -1,0 +1,307 @@
+# Translation of batteryandperformance in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the batteryandperformance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: batteryandperformance\n"
+"Report-Msgid-Bugs-To: https://github.com/biglinux/biglinux-plasmoids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Biglinux-batteri, lysstyrke og systemytelse"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Se strømstatusen til batteriet og administrer ytelsen"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
+msgstr "Dette batteriets helse er på bare %1%, og det bør byttes ut. Kontakt produsenten."
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Time To Full:"
+msgstr "Tid til fullt:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Remaining Time:"
+msgstr "Gjenværende tid:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery Health:"
+msgstr "Batteriets helse:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery is configured to charge up to approximately %1%."
+msgstr "Batteriet er konfigurert til å lade opp til ca%1%."
+
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Deaktiver skrivebordseffekter"
+
+#: ../contents/ui/Handler/logic.js ../contents/ui/main.qml
+msgid "Fully Charged"
+msgstr "Fulladet"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Discharging"
+msgstr "Lossing"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Charging"
+msgstr "Lading"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Not Charging"
+msgstr "Lader ikke"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Biglinux batteri og lysstyrke"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Biglinux lysstyrke"
+
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "biglinux-batteri"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Biglinux strømstyring"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, not Charging"
+msgstr "Batteri på %1%, lader ikke"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, plugged in but still discharging"
+msgstr "Batteri på %1%, plugget inn, men fortsatt utlades"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, Charging"
+msgstr "Batteri på %1%, lading"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%"
+msgstr "Batteri på %1%"
+
+#: ../contents/ui/main.qml
+msgid "The power supply is not powerful enough to charge the battery"
+msgstr "Strømforsyningen er ikke kraftig nok til å lade batteriet"
+
+#: ../contents/ui/main.qml
+msgid "No Batteries Available"
+msgstr "Ingen batterier tilgjengelig"
+
+#: ../contents/ui/main.qml
+msgid "Not charging"
+msgstr "Lader ikke"
+
+#: ../contents/ui/main.qml
+msgid "Automatic sleep and screen locking are disabled"
+msgstr "Automatisk hvilemodus og skjermlåsing er deaktivert"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Performance mode"
+msgid_plural "%1 applications have requested activating Performance mode"
+msgstr[0] ""
+"Et program har bedt om aktivering av ytelsesmodus,%1 programmer har bedt om aktivering av "
+"ytelsesmodus"
+
+#: ../contents/ui/main.qml
+msgid "System is in Performance mode"
+msgstr "Systemet er i ytelsesmodus"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Power Save mode"
+msgid_plural "%1 applications have requested activating Power Save mode"
+msgstr[0] ""
+"Et program har bedt om aktivering av strømsparingsmodus,%1-programmer har bedt om aktivering av "
+"strømsparingsmodus"
+
+#: ../contents/ui/main.qml
+msgid "System is in Power Save mode"
+msgstr "Systemet er i strømsparingsmodus"
+
+#: ../contents/ui/main.qml
+msgid "Scroll to adjust screen brightness"
+msgstr "Bla for å justere skjermens lysstyrke"
+
+#: ../contents/ui/main.qml
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "Batteriappleten har aktivert systemomfattende hemming"
+
+#: ../contents/ui/main.qml
+msgid "Battery and Brightness"
+msgstr "Batteri og lysstyrke"
+
+#: ../contents/ui/main.qml
+msgid "Failed to activate %1 mode"
+msgstr "Kunne ikke aktivere %1-modus"
+
+#: ../contents/ui/main.qml
+msgid "&Show Energy Information…"
+msgstr "&Vis energiinformasjon..."
+
+#: ../contents/ui/main.qml
+msgid "Show Battery Percentage on Icon When Not Fully Charged"
+msgstr "Vis batteriprosent på ikonet når det ikke er fulladet"
+
+#: ../contents/ui/main.qml
+msgid "&Configure Energy Saving…"
+msgstr "&Konfigurer energisparing ..."
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Display Brightness"
+msgstr "Lysstyrke"
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Keyboard Brightness"
+msgstr "Lysstyrke på tastaturet"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 application is currently blocking sleep and screen locking:"
+msgid_plural "%1 applications are currently blocking sleep and screen locking:"
+msgstr[0] ""
+"%1 programmet er for øyeblikket blokkerer hvilemodus og skjermlåsing:,%1 programmer er for "
+"øyeblikket blokkerer hvilemodus og skjermlåsing:"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (%2)"
+msgstr "%1 blokkerer for øyeblikket hvilemodus og skjermlåsing (%2)"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
+msgstr "%1 blokkerer for øyeblikket hvilemodus og skjermlåsing (ukjent årsak)"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Save"
+msgstr "Strømsparing"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Balanced"
+msgstr "Balansert"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance"
+msgstr "Prestasjon"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Profile"
+msgstr "Strømprofil"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
+msgstr ""
+"Ytelsesmodus er deaktivert for å redusere varmeutviklingen fordi datamaskinen har oppdaget at den "
+"kan sitte på fanget ditt."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "Ytelsesmodus er ikke tilgjengelig fordi datamaskinen går for varm."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable."
+msgstr "Ytelsesmodus er ikke tilgjengelig."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
+msgstr ""
+"Ytelsen kan senkes for å redusere varmeutviklingen fordi datamaskinen har oppdaget at den kan sitte "
+"på fanget ditt."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced because the computer is running too hot."
+msgstr "Ytelsen kan bli redusert fordi datamaskinen går for varmt."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced."
+msgstr "Ytelsen kan bli redusert."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "One application has requested activating %2:"
+msgid_plural "%1 applications have requested activating %2:"
+msgstr[0] "Ett program har bedt om aktivering %2:,%1 programmer har bedt om aktivering %2:"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/BatteryItem.qml
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "Estimering..."
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/Handler/logic.js
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Ikke til stede"
+
+#: ../contents/ui/main.qml
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1 til den er fulladet"
+
+#: ../contents/ui/main.qml
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "%1 gjenstår"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "Blokker hvilemodus og skjermlåsing manuelt"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr ""
+"Den bærbare datamaskinen er konfigurert til ikke å sove når du lukker lokket mens en ekstern skjerm "
+"er tilkoblet."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: ukjent årsak"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"

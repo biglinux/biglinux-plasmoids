@@ -1,0 +1,309 @@
+# Translation of batteryandperformance in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the batteryandperformance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: batteryandperformance\n"
+"Report-Msgid-Bugs-To: https://github.com/biglinux/biglinux-plasmoids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Biglinux akkumulátor, fényerő és rendszerteljesítmény"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Tekintse meg az akkumulátor töltöttségi állapotát, és kezelje a teljesítményt"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
+msgstr "Ennek az akkumulátornak az állapota csak %1%, és ki kell cserélni. Lépjen kapcsolatba a gyártóval."
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Time To Full:"
+msgstr "A teljes idő:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Remaining Time:"
+msgstr "Hátralévő idő:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery Health:"
+msgstr "Az akkumulátor állapota:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery is configured to charge up to approximately %1%."
+msgstr "Az akkumulátor úgy van konfigurálva, hogy körülbelül %1%-ig töltse."
+
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Asztali effektusok letiltása"
+
+#: ../contents/ui/Handler/logic.js ../contents/ui/main.qml
+msgid "Fully Charged"
+msgstr "Teljesen feltöltött"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Discharging"
+msgstr "Kisütés"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Charging"
+msgstr "Töltő"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Not Charging"
+msgstr "Nem töltődik"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Biglinux akkumulátor és fényerő"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Biglinux fényerő"
+
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "biglinux akkumulátor"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Biglinux energiagazdálkodás"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, not Charging"
+msgstr "Az akkumulátor %1%-on van, nem töltődik"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, plugged in but still discharging"
+msgstr "Az akkumulátor %1% -nál van, csatlakoztatva, de még mindig lemerül"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, Charging"
+msgstr "Akkumulátor %1% -nál, töltés"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%"
+msgstr "Akkumulátor %1%"
+
+#: ../contents/ui/main.qml
+msgid "The power supply is not powerful enough to charge the battery"
+msgstr "A tápegység nem elég erős az akkumulátor töltéséhez"
+
+#: ../contents/ui/main.qml
+msgid "No Batteries Available"
+msgstr "Nincs elérhető elem"
+
+#: ../contents/ui/main.qml
+msgid "Not charging"
+msgstr "Nem töltődik"
+
+#: ../contents/ui/main.qml
+msgid "Automatic sleep and screen locking are disabled"
+msgstr "Az automatikus alvó állapot és a képernyőzár le van tiltva"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Performance mode"
+msgid_plural "%1 applications have requested activating Performance mode"
+msgstr[0] ""
+"Egy alkalmazás kérte a Teljesítmény mód aktiválását,%1 alkalmazás kérte a Teljesítmény mód "
+"aktiválását"
+
+#: ../contents/ui/main.qml
+msgid "System is in Performance mode"
+msgstr "A rendszer Teljesítmény módban van"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Power Save mode"
+msgid_plural "%1 applications have requested activating Power Save mode"
+msgstr[0] ""
+"Egy alkalmazás kérte az energiatakarékos mód aktiválását,%1 alkalmazások kérték az energiatakarékos "
+"mód aktiválását"
+
+#: ../contents/ui/main.qml
+msgid "System is in Power Save mode"
+msgstr "A rendszer energiatakarékos módban van"
+
+#: ../contents/ui/main.qml
+msgid "Scroll to adjust screen brightness"
+msgstr "Görgess a képernyő fényerejének beállításához"
+
+#: ../contents/ui/main.qml
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "Az akkumulátor kisalkalmazás lehetővé tette a rendszerszintű gátlást"
+
+#: ../contents/ui/main.qml
+msgid "Battery and Brightness"
+msgstr "Akkumulátor és fényerő"
+
+#: ../contents/ui/main.qml
+msgid "Failed to activate %1 mode"
+msgstr "A(z) %1 mód aktiválása sikertelen"
+
+#: ../contents/ui/main.qml
+msgid "&Show Energy Information…"
+msgstr "&Energiainformációk megjelenítése..."
+
+#: ../contents/ui/main.qml
+msgid "Show Battery Percentage on Icon When Not Fully Charged"
+msgstr ""
+"Az akkumulátor százalékos töltöttségi szintjének megjelenítése az ikonon, ha nincs teljesen "
+"feltöltve"
+
+#: ../contents/ui/main.qml
+msgid "&Configure Energy Saving…"
+msgstr "&Energiatakarékosság konfigurálása..."
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Display Brightness"
+msgstr "Kijelző fényereje"
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Keyboard Brightness"
+msgstr "Billentyűzet fényereje"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 application is currently blocking sleep and screen locking:"
+msgid_plural "%1 applications are currently blocking sleep and screen locking:"
+msgstr[0] ""
+"%1 alkalmazás jelenleg blokkolja az alvó állapotot és a képernyőzárolást:,%1 Az alkalmazások "
+"jelenleg blokkolják az alvó állapotot és a képernyőzárolást:"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (%2)"
+msgstr "A(z) %1 jelenleg blokkolja az alvó állapotot és a képernyőzárolást (%2)"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
+msgstr "A(z) %1 jelenleg blokkolja az alvó állapotot és a képernyőzárolást (ismeretlen ok)"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Save"
+msgstr "Energiatakarékos"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Balanced"
+msgstr "Kiegyensúlyozott"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance"
+msgstr "Teljesítmény"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Profile"
+msgstr "Tápellátási profil"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
+msgstr ""
+"A Teljesítmény mód le van tiltva a hőtermelés csökkentése érdekében, mert a számítógép észlelte, "
+"hogy az ölében ülhet."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "A Teljesítmény mód nem érhető el, mert a számítógép túl forró."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable."
+msgstr "A Teljesítmény mód nem érhető el."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
+msgstr ""
+"A hőtermelés csökkentése érdekében csökkenhet a teljesítmény, mert a számítógép észlelte, hogy az "
+"ölében ülhet."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced because the computer is running too hot."
+msgstr "A teljesítmény csökkenhet, mert a számítógép túl forró."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced."
+msgstr "A teljesítmény csökkenhet."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "One application has requested activating %2:"
+msgid_plural "%1 applications have requested activating %2:"
+msgstr[0] "Az egyik alkalmazás kérte a(z) %2:,%1 aktiválását A(z) %2 aktiválását az alkalmazások:"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/BatteryItem.qml
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "Becslése..."
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/Handler/logic.js
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Nincs jelen"
+
+#: ../contents/ui/main.qml
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1, amíg teljesen fel nem töltődik"
+
+#: ../contents/ui/main.qml
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "%1 megmaradt"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "Az alvó állapot és a képernyőzárolás manuális letiltása"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr ""
+"A laptop úgy van konfigurálva, hogy ne alvó állapotba kerüljön, amikor lecsukja a fedelet, miközben "
+"külső monitor van csatlakoztatva."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: ismeretlen ok"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"

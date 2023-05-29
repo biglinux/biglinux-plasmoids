@@ -1,0 +1,305 @@
+# Translation of batteryandperformance in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the batteryandperformance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: batteryandperformance\n"
+"Report-Msgid-Bugs-To: https://github.com/biglinux/biglinux-plasmoids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Biglinuxi aku, heledus ja süsteemi jõudlus"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Aku toiteoleku vaatamine ja jõudluse haldamine"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
+msgstr "Selle aku tervis on ainult %1% ja see tuleks välja vahetada. Võtke ühendust tootjaga."
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Time To Full:"
+msgstr "Aeg täis:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Remaining Time:"
+msgstr "Järelejäänud aeg:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery Health:"
+msgstr "Aku tervis:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery is configured to charge up to approximately %1%."
+msgstr "Aku on konfigureeritud laadima kuni ligikaudu 1%."
+
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Keela töölauaefektid"
+
+#: ../contents/ui/Handler/logic.js ../contents/ui/main.qml
+msgid "Fully Charged"
+msgstr "Täielikult laetud"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Discharging"
+msgstr "Tühjendamine"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Charging"
+msgstr "Laadimine"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Not Charging"
+msgstr "Laadimata jätmine"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Biglinuxi aku ja heledus"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Biglinuxi heledus"
+
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "biglinuxi aku"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Biglinuxi toitehaldus"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, not Charging"
+msgstr "Aku %1%, mitte laadimine"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, plugged in but still discharging"
+msgstr "Aku %1%, vooluvõrku ühendatud, kuid siiski tühi"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, Charging"
+msgstr "Aku %1%, laadimine"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%"
+msgstr "Aku %1% juures"
+
+#: ../contents/ui/main.qml
+msgid "The power supply is not powerful enough to charge the battery"
+msgstr "Toiteallikas ei ole aku laadimiseks piisavalt võimas"
+
+#: ../contents/ui/main.qml
+msgid "No Batteries Available"
+msgstr "Patareisid pole saadaval"
+
+#: ../contents/ui/main.qml
+msgid "Not charging"
+msgstr "Laadimata jätmine"
+
+#: ../contents/ui/main.qml
+msgid "Automatic sleep and screen locking are disabled"
+msgstr "Automaatne unerežiim ja ekraanilukustus on keelatud"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Performance mode"
+msgid_plural "%1 applications have requested activating Performance mode"
+msgstr[0] ""
+"Rakendus on taotlenud jõudlusrežiimi aktiveerimist,%1 rakendused on taotlenud jõudlusrežiimi "
+"aktiveerimist"
+
+#: ../contents/ui/main.qml
+msgid "System is in Performance mode"
+msgstr "Süsteem on jõudlusrežiimis"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Power Save mode"
+msgid_plural "%1 applications have requested activating Power Save mode"
+msgstr[0] ""
+"Rakendus on taotlenud energiasäästurežiimi aktiveerimist,%1 rakendused on taotlenud "
+"energiasäästurežiimi aktiveerimist"
+
+#: ../contents/ui/main.qml
+msgid "System is in Power Save mode"
+msgstr "Süsteem on energiasäästurežiimis"
+
+#: ../contents/ui/main.qml
+msgid "Scroll to adjust screen brightness"
+msgstr "Kerige ekraani heleduse reguleerimiseks"
+
+#: ../contents/ui/main.qml
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "Aku aplett on võimaldanud kogu süsteemi pärssimist"
+
+#: ../contents/ui/main.qml
+msgid "Battery and Brightness"
+msgstr "Aku ja heledus"
+
+#: ../contents/ui/main.qml
+msgid "Failed to activate %1 mode"
+msgstr "Režiimi %1 aktiveerimine nurjus"
+
+#: ../contents/ui/main.qml
+msgid "&Show Energy Information…"
+msgstr "ja Näita energiateavet..."
+
+#: ../contents/ui/main.qml
+msgid "Show Battery Percentage on Icon When Not Fully Charged"
+msgstr "Ikooni Kuva aku protsent olekus, kui see pole täielikult laetud"
+
+#: ../contents/ui/main.qml
+msgid "&Configure Energy Saving…"
+msgstr "ja seadistage energiasääst..."
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Display Brightness"
+msgstr "Ekraani heledus"
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Keyboard Brightness"
+msgstr "Klaviatuuri heledus"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 application is currently blocking sleep and screen locking:"
+msgid_plural "%1 applications are currently blocking sleep and screen locking:"
+msgstr[0] ""
+"%1 rakendus blokeerib praegu unerežiimi ja ekraani lukustamist:,%1 rakendused blokeerivad praegu "
+"unerežiimi ja ekraani lukustamist:"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (%2)"
+msgstr "%1 blokeerib praegu unerežiimi ja ekraani lukustamist (%2)"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
+msgstr "%1 blokeerib praegu unerežiimi ja ekraani lukustamist (põhjus teadmata)"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Save"
+msgstr "Energiasääst"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Balanced"
+msgstr "Tasakaalustatud"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance"
+msgstr "Jõudlust"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Profile"
+msgstr "Võimsuse profiil"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
+msgstr ""
+"Jõudlusrežiim on soojuse tekke vähendamiseks keelatud, kuna arvuti on tuvastanud, et see võib teie "
+"süles istuda."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "Jõudlusrežiim pole saadaval, kuna arvuti töötab liiga kuumalt."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable."
+msgstr "Jõudlusrežiim pole saadaval."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
+msgstr ""
+"Soojuse tekke vähendamiseks võib jõudlus väheneda, kuna arvuti on tuvastanud, et see võib teie "
+"süles istuda."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced because the computer is running too hot."
+msgstr "Jõudlus võib väheneda, kuna arvuti töötab liiga kuumalt."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced."
+msgstr "Jõudlust võib vähendada."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "One application has requested activating %2:"
+msgid_plural "%1 applications have requested activating %2:"
+msgstr[0] "Üks rakendus on taotlenud %2:,%1 rakenduste aktiveerimist%2:"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/BatteryItem.qml
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "Hinnates..."
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/Handler/logic.js
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Ei ole kohal"
+
+#: ../contents/ui/main.qml
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1, kuni see on täielikult laetud"
+
+#: ../contents/ui/main.qml
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "%1 allesjäänud"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "Unerežiimi ja ekraanilukustuse käsitsi blokeerimine"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr "Teie sülearvuti on konfigureeritud kaane sulgemisel mitte magama, kui väline monitor on ühendatud."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: põhjus teadmata"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"

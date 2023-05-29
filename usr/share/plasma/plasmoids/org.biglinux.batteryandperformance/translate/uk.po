@@ -1,0 +1,307 @@
+# Translation of batteryandperformance in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the batteryandperformance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: batteryandperformance\n"
+"Report-Msgid-Bugs-To: https://github.com/biglinux/biglinux-plasmoids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Акумулятор Biglinux, яскравість і продуктивність системи"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Перегляд стану живлення акумулятора та керування продуктивністю"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
+msgstr "Справність цієї батареї становить лише %1%, і її слід замінити. Зверніться до виробника."
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Time To Full:"
+msgstr "Час до повного:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Remaining Time:"
+msgstr "Час, що залишився:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery Health:"
+msgstr "Стан акумулятора:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery is configured to charge up to approximately %1%."
+msgstr "Акумулятор налаштований на зарядку приблизно до %1%."
+
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Відключення ефектів робочого столу"
+
+#: ../contents/ui/Handler/logic.js ../contents/ui/main.qml
+msgid "Fully Charged"
+msgstr "Повністю заряджений"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Discharging"
+msgstr "Виконанні"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Charging"
+msgstr "Зарядки"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Not Charging"
+msgstr "Не заряджається"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Акумулятор Biglinux та яскравість"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Яскравість Biglinux"
+
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "Акумулятор biglinux"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Керування живленням Biglinux"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, not Charging"
+msgstr "Акумулятор при %1%, не заряджається"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, plugged in but still discharging"
+msgstr "Акумулятор при %1%, підключений до мережі, але все ще розряджається"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, Charging"
+msgstr "Акумулятор при %1%, заряджання"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%"
+msgstr "Акумулятор при %1%"
+
+#: ../contents/ui/main.qml
+msgid "The power supply is not powerful enough to charge the battery"
+msgstr "Блок живлення недостатньо потужний, щоб зарядити акумулятор"
+
+#: ../contents/ui/main.qml
+msgid "No Batteries Available"
+msgstr "Немає доступних батарей"
+
+#: ../contents/ui/main.qml
+msgid "Not charging"
+msgstr "Не заряджається"
+
+#: ../contents/ui/main.qml
+msgid "Automatic sleep and screen locking are disabled"
+msgstr "Автоматичний перехід у режим сну та блокування екрана вимкнено"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Performance mode"
+msgid_plural "%1 applications have requested activating Performance mode"
+msgstr[0] ""
+"Програма подала запит на активацію режиму продуктивності,%1 програми попросили активувати режим "
+"продуктивності"
+
+#: ../contents/ui/main.qml
+msgid "System is in Performance mode"
+msgstr "Система працює в режимі продуктивності"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Power Save mode"
+msgid_plural "%1 applications have requested activating Power Save mode"
+msgstr[0] ""
+"Програма подала запит на активацію режиму Power Save,%1 програми попросили активувати режим Power "
+"Save"
+
+#: ../contents/ui/main.qml
+msgid "System is in Power Save mode"
+msgstr "Система працює в режимі енергозбереження"
+
+#: ../contents/ui/main.qml
+msgid "Scroll to adjust screen brightness"
+msgstr "Прокрутіть сторінку вниз, щоб налаштувати яскравість екрана"
+
+#: ../contents/ui/main.qml
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "Аплет акумулятора ввімкнув загальносистемне гальмування"
+
+#: ../contents/ui/main.qml
+msgid "Battery and Brightness"
+msgstr "Акумулятор і яскравість"
+
+#: ../contents/ui/main.qml
+msgid "Failed to activate %1 mode"
+msgstr "Не вдалося активувати режим %1"
+
+#: ../contents/ui/main.qml
+msgid "&Show Energy Information…"
+msgstr "&Показати енергетичну інформацію..."
+
+#: ../contents/ui/main.qml
+msgid "Show Battery Percentage on Icon When Not Fully Charged"
+msgstr "Відображення відсотка заряду акумулятора на піктограмі, якщо заряджено не повністю"
+
+#: ../contents/ui/main.qml
+msgid "&Configure Energy Saving…"
+msgstr "&Налаштуйте енергозбереження..."
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Display Brightness"
+msgstr "Яскравість дисплея"
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Keyboard Brightness"
+msgstr "Яскравість клавіатури"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 application is currently blocking sleep and screen locking:"
+msgid_plural "%1 applications are currently blocking sleep and screen locking:"
+msgstr[0] ""
+"%1 додаток в даний час блокує режим сну і блокування екрану:,%1 додатки в даний час блокують режим "
+"сну і блокування екрану:"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (%2)"
+msgstr "%1 наразі блокує режим сну та блокування екрана (%2)"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
+msgstr "%1 наразі блокує режим сну та блокування екрана (невідома причина)"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Save"
+msgstr "Економія енергії"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Balanced"
+msgstr "Збалансований"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance"
+msgstr "Продуктивність"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Profile"
+msgstr "Профіль живлення"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
+msgstr ""
+"Режим продуктивності вимкнуто, щоб зменшити виділення тепла, оскільки комп'ютер виявив, що він може "
+"сидіти у вас на колінах."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "Режим продуктивності недоступний, оскільки комп'ютер занадто гарячий."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable."
+msgstr "Режим продуктивності недоступний."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
+msgstr ""
+"Продуктивність може бути знижена, щоб зменшити виділення тепла, оскільки комп'ютер виявив, що він "
+"може сидіти у вас на колінах."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced because the computer is running too hot."
+msgstr "Продуктивність може знизитися, оскільки комп'ютер занадто гарячий."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced."
+msgstr "Працездатність може бути знижена."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "One application has requested activating %2:"
+msgid_plural "%1 applications have requested activating %2:"
+msgstr[0] "Одна програма запросила активацію %2:,%1 програми попросили активувати %2:"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/BatteryItem.qml
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "Оцінки..."
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/Handler/logic.js
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Відсутній"
+
+#: ../contents/ui/main.qml
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1 до повного заряджання"
+
+#: ../contents/ui/main.qml
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "%1 залишився"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "Блокування режиму сну та блокування екрана вручну"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr ""
+"Ноутбук настроєно не переходити в режим сну під час закриття кришки під час підключення зовнішнього "
+"монітора."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: невідома причина"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"

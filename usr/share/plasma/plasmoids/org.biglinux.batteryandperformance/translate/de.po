@@ -1,0 +1,311 @@
+# Translation of batteryandperformance in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the batteryandperformance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: batteryandperformance\n"
+"Report-Msgid-Bugs-To: https://github.com/biglinux/biglinux-plasmoids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Biglinux Akku, Helligkeit und Systemleistung"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Sehen Sie sich den Energiestatus Ihres Akkus an und verwalten Sie die Leistung"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
+msgstr ""
+"Der Zustand dieser Batterie beträgt nur 1 % und sie sollte ausgetauscht werden. Wenden Sie sich an "
+"den Hersteller."
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Time To Full:"
+msgstr "Zeit bis voll:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Remaining Time:"
+msgstr "Verbleibende Zeit:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery Health:"
+msgstr "Zustand der Batterie:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery is configured to charge up to approximately %1%."
+msgstr "Der Akku ist so konfiguriert, dass er bis zu ca. 1 % aufgeladen werden kann."
+
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Desktop-Effekte deaktivieren"
+
+#: ../contents/ui/Handler/logic.js ../contents/ui/main.qml
+msgid "Fully Charged"
+msgstr "Voll aufgeladen"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Discharging"
+msgstr "Absetzend"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Charging"
+msgstr "Aufladung"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Not Charging"
+msgstr "Kein Aufladen"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Biglinux Akku und Helligkeit"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Biglinux Helligkeit"
+
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "biglinux Akku"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Biglinux Energieverwaltung"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, not Charging"
+msgstr "Akku bei %1%, nicht aufgeladen"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, plugged in but still discharging"
+msgstr "Batterie bei %1%, eingesteckt, aber immer noch entladen"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, Charging"
+msgstr "Akku bei %1%, Aufladen"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%"
+msgstr "Akku bei %1%"
+
+#: ../contents/ui/main.qml
+msgid "The power supply is not powerful enough to charge the battery"
+msgstr "Das Netzteil ist nicht leistungsfähig genug, um den Akku aufzuladen"
+
+#: ../contents/ui/main.qml
+msgid "No Batteries Available"
+msgstr "Keine Batterien verfügbar"
+
+#: ../contents/ui/main.qml
+msgid "Not charging"
+msgstr "Kein Aufladen"
+
+#: ../contents/ui/main.qml
+msgid "Automatic sleep and screen locking are disabled"
+msgstr "Automatischer Ruhezustand und Bildschirmsperre sind deaktiviert"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Performance mode"
+msgid_plural "%1 applications have requested activating Performance mode"
+msgstr[0] ""
+"Eine Anwendung hat die Aktivierung des Leistungsmodus angefordert,%1 Anwendungen haben die "
+"Aktivierung des Leistungsmodus angefordert"
+
+#: ../contents/ui/main.qml
+msgid "System is in Performance mode"
+msgstr "Das System befindet sich im Performance-Modus"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Power Save mode"
+msgid_plural "%1 applications have requested activating Power Save mode"
+msgstr[0] ""
+"Eine Anwendung hat die Aktivierung des Energiesparmodus angefordert,%1 Anwendungen haben die "
+"Aktivierung des Energiesparmodus angefordert"
+
+#: ../contents/ui/main.qml
+msgid "System is in Power Save mode"
+msgstr "Das System befindet sich im Energiesparmodus"
+
+#: ../contents/ui/main.qml
+msgid "Scroll to adjust screen brightness"
+msgstr "Scrollen Sie, um die Bildschirmhelligkeit anzupassen"
+
+#: ../contents/ui/main.qml
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "Das Batterie-Applet hat eine systemweite Hemmung ermöglicht"
+
+#: ../contents/ui/main.qml
+msgid "Battery and Brightness"
+msgstr "Akku und Helligkeit"
+
+#: ../contents/ui/main.qml
+msgid "Failed to activate %1 mode"
+msgstr "Fehler beim Aktivieren des %1-Modus"
+
+#: ../contents/ui/main.qml
+msgid "&Show Energy Information…"
+msgstr "&Energieinformationen anzeigen..."
+
+#: ../contents/ui/main.qml
+msgid "Show Battery Percentage on Icon When Not Fully Charged"
+msgstr "Batterieprozentsatz auf dem Symbol anzeigen, wenn nicht vollständig aufgeladen"
+
+#: ../contents/ui/main.qml
+msgid "&Configure Energy Saving…"
+msgstr "&Energiesparen konfigurieren..."
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Display Brightness"
+msgstr "Display-Helligkeit"
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Keyboard Brightness"
+msgstr "Helligkeit der Tastatur"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 application is currently blocking sleep and screen locking:"
+msgid_plural "%1 applications are currently blocking sleep and screen locking:"
+msgstr[0] ""
+"%1 Anwendung blockiert derzeit den Ruhezustand und die Bildschirmsperre:,%1 Anwendungen blockieren "
+"derzeit den Ruhezustand und die Bildschirmsperre:"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (%2)"
+msgstr "%1 blockiert derzeit den Ruhezustand und die Bildschirmsperre (%2)"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
+msgstr "%1 blockiert derzeit den Ruhezustand und die Bildschirmsperre (unbekannter Grund)"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Save"
+msgstr "Energiesparmodus"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Balanced"
+msgstr "Ausgeglichen"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance"
+msgstr "Leistung"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Profile"
+msgstr "Leistungsprofil"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
+msgstr ""
+"Der Leistungsmodus wurde deaktiviert, um die Wärmeentwicklung zu reduzieren, da der Computer "
+"erkannt hat, dass er möglicherweise auf Ihrem Schoß sitzt."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "Der Leistungsmodus ist nicht verfügbar, da der Computer zu heiß läuft."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable."
+msgstr "Der Leistungsmodus ist nicht verfügbar."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
+msgstr ""
+"Die Leistung kann verringert werden, um die Wärmeentwicklung zu reduzieren, da der Computer erkannt "
+"hat, dass er möglicherweise auf Ihrem Schoß sitzt."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced because the computer is running too hot."
+msgstr "Die Leistung kann beeinträchtigt werden, weil der Computer zu heiß läuft."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced."
+msgstr "Die Leistung kann eingeschränkt sein."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "One application has requested activating %2:"
+msgid_plural "%1 applications have requested activating %2:"
+msgstr[0] ""
+"Eine Anwendung hat die Aktivierung von %2:,%1 angefordert Anwendungen haben die Aktivierung von %2 "
+"angefordert:"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/BatteryItem.qml
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "Abschätzend..."
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/Handler/logic.js
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Nicht vorhanden"
+
+#: ../contents/ui/main.qml
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1 bis zum vollständigen Aufladen"
+
+#: ../contents/ui/main.qml
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "%1 verbleibend"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "Manuelles Blockieren des Ruhezustands und der Bildschirmsperre"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr ""
+"Ihr Laptop ist so konfiguriert, dass er nicht in den Ruhezustand wechselt, wenn der Deckel "
+"geschlossen wird, während ein externer Monitor angeschlossen ist."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: unbekannter Grund"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"

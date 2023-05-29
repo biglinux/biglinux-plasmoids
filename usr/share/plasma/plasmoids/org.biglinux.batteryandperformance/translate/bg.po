@@ -1,0 +1,305 @@
+# Translation of batteryandperformance in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the batteryandperformance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: batteryandperformance\n"
+"Report-Msgid-Bugs-To: https://github.com/biglinux/biglinux-plasmoids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Biglinux батерия, яркост и производителност на системата"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Вижте състоянието на захранването на батерията и управлявайте производителността"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
+msgstr "Изправността на тази батерия е само %1% и тя трябва да бъде сменена. Свържете се с производителя."
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Time To Full:"
+msgstr "Време за пълнене:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Remaining Time:"
+msgstr "Оставащо време:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery Health:"
+msgstr "Здраве на батерията:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery is configured to charge up to approximately %1%."
+msgstr "Батерията е конфигурирана да се зарежда до приблизително %1%."
+
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Забраняване на ефектите на работния плот"
+
+#: ../contents/ui/Handler/logic.js ../contents/ui/main.qml
+msgid "Fully Charged"
+msgstr "Напълно зареден"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Discharging"
+msgstr "Изпълнение"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Charging"
+msgstr "Зареждане"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Not Charging"
+msgstr "Не се зарежда"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Батерия и яркост на Biglinux"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Яркост на Biglinux"
+
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "biglinux батерия"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Biglinux Управление на захранването"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, not Charging"
+msgstr "Батерия на %1%, без зареждане"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, plugged in but still discharging"
+msgstr "Батерията на% 1% е включена, но все още се разрежда"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, Charging"
+msgstr "Батерия при %1%, зареждане"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%"
+msgstr "Батерия при% 1%"
+
+#: ../contents/ui/main.qml
+msgid "The power supply is not powerful enough to charge the battery"
+msgstr "Захранването не е достатъчно мощно, за да зареди батерията"
+
+#: ../contents/ui/main.qml
+msgid "No Batteries Available"
+msgstr "Няма налични батерии"
+
+#: ../contents/ui/main.qml
+msgid "Not charging"
+msgstr "Не се зарежда"
+
+#: ../contents/ui/main.qml
+msgid "Automatic sleep and screen locking are disabled"
+msgstr "Автоматичното заспиване и заключване на екрана са забранени"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Performance mode"
+msgid_plural "%1 applications have requested activating Performance mode"
+msgstr[0] ""
+"Приложение поиска активиране на режим на производителност,%1 приложения поискаха активиране на "
+"режим на производителност"
+
+#: ../contents/ui/main.qml
+msgid "System is in Performance mode"
+msgstr "Системата е в режим на производителност"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Power Save mode"
+msgid_plural "%1 applications have requested activating Power Save mode"
+msgstr[0] ""
+"Приложение е поискало активиране на режим на пестене на енергия,%1 приложения са поискали "
+"активиране на режим на пестене на енергия"
+
+#: ../contents/ui/main.qml
+msgid "System is in Power Save mode"
+msgstr "Системата е в режим на пестене на енергия"
+
+#: ../contents/ui/main.qml
+msgid "Scroll to adjust screen brightness"
+msgstr "Превъртете, за да регулирате яркостта на екрана"
+
+#: ../contents/ui/main.qml
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "Аплетът на батерията е разрешил инхибиране на цялата система"
+
+#: ../contents/ui/main.qml
+msgid "Battery and Brightness"
+msgstr "Батерия и яркост"
+
+#: ../contents/ui/main.qml
+msgid "Failed to activate %1 mode"
+msgstr "Неуспешно активиране на режим %1"
+
+#: ../contents/ui/main.qml
+msgid "&Show Energy Information…"
+msgstr "&Показване на енергийна информация..."
+
+#: ../contents/ui/main.qml
+msgid "Show Battery Percentage on Icon When Not Fully Charged"
+msgstr "Показвай процента на батерията на иконата, когато не е напълно заредена"
+
+#: ../contents/ui/main.qml
+msgid "&Configure Energy Saving…"
+msgstr "&Конфигуриране на икономия на енергия..."
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Display Brightness"
+msgstr "Яркост на дисплея"
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Keyboard Brightness"
+msgstr "Яркост на клавиатурата"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 application is currently blocking sleep and screen locking:"
+msgid_plural "%1 applications are currently blocking sleep and screen locking:"
+msgstr[0] ""
+"%1 приложение в момента блокира заспиването и заключването на екрана:,%1 приложения в момента "
+"блокират заспиването и заключването на екрана:"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (%2)"
+msgstr "%1 в момента блокира заспиването и заключването на екрана (%2)"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
+msgstr "%1 в момента блокира заспиването и заключването на екрана (неизвестна причина)"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Save"
+msgstr "Пестене на енергия"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Balanced"
+msgstr "Уравновесен"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance"
+msgstr "Изпълнение"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Profile"
+msgstr "Профил на захранването"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
+msgstr ""
+"Режимът на производителност е деактивиран, за да се намали генерирането на топлина, тъй като "
+"компютърът е открил, че може да седи в скута ви."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "Режимът на производителност е недостъпен, защото компютърът работи твърде горещо."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable."
+msgstr "Режимът на производителност не е наличен."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
+msgstr ""
+"Производителността може да бъде намалена, за да се намали генерирането на топлина, защото "
+"компютърът е открил, че може да седи в скута ви."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced because the computer is running too hot."
+msgstr "Производителността може да бъде намалена, защото компютърът работи твърде горещо."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced."
+msgstr "Производителността може да бъде намалена."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "One application has requested activating %2:"
+msgid_plural "%1 applications have requested activating %2:"
+msgstr[0] "Едно приложение е поискало активиране на %2:,%1 приложения са поискали активиране на %2:"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/BatteryItem.qml
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "Оценка..."
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/Handler/logic.js
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Не присъства"
+
+#: ../contents/ui/main.qml
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1 до пълно зареждане"
+
+#: ../contents/ui/main.qml
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "Остават %1"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "Ръчно блокиране на заспиването и заключването на екрана"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr "Вашият лаптоп е конфигуриран да не спи при затваряне на капака, докато е свързан външен монитор."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: неизвестна причина"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"

@@ -1,0 +1,295 @@
+# Translation of batteryandperformance in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the batteryandperformance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: batteryandperformance\n"
+"Report-Msgid-Bugs-To: https://github.com/biglinux/biglinux-plasmoids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "ビッグリナックスバッテリー、明るさとシステムパフォーマンス"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "バッテリーの電源状態を確認し、パフォーマンスを管理する"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
+msgstr "このバッテリーの耐力はわずか%1%なので、交換する必要があります。製造元にお問い合わせください。"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Time To Full:"
+msgstr "フルになるまでの時間:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Remaining Time:"
+msgstr "残り時間:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery Health:"
+msgstr "バッテリーの状態:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery is configured to charge up to approximately %1%."
+msgstr "バッテリは約 %1% まで充電するように構成されています。"
+
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "デスクトップ効果を無効にする"
+
+#: ../contents/ui/Handler/logic.js ../contents/ui/main.qml
+msgid "Fully Charged"
+msgstr "フル充電"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Discharging"
+msgstr "放電"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Charging"
+msgstr "充電"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Not Charging"
+msgstr "充電しない"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Biglinux バッテリーと明るさ"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "ビッグリナックスの明るさ"
+
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "ビッグリナックスバッテリー"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Biglinux Power Management"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, not Charging"
+msgstr "バッテリーは%1%で、充電されていません"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, plugged in but still discharging"
+msgstr "%1%のバッテリ、プラグを差し込んでいるが放電中"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, Charging"
+msgstr "%1%のバッテリー、充電中"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%"
+msgstr "%1%のバッテリー"
+
+#: ../contents/ui/main.qml
+msgid "The power supply is not powerful enough to charge the battery"
+msgstr "電源はバッテリーを充電するのに十分なほど強力ではありません"
+
+#: ../contents/ui/main.qml
+msgid "No Batteries Available"
+msgstr "利用可能なバッテリーがありません"
+
+#: ../contents/ui/main.qml
+msgid "Not charging"
+msgstr "充電しない"
+
+#: ../contents/ui/main.qml
+msgid "Automatic sleep and screen locking are disabled"
+msgstr "自動スリープと画面ロックが無効になっている"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Performance mode"
+msgid_plural "%1 applications have requested activating Performance mode"
+msgstr[0] "アプリケーションがパフォーマンス モードのアクティブ化を要求しました、%1 アプリケーションがパフォーマンス モードのアクティブ化を要求しました"
+
+#: ../contents/ui/main.qml
+msgid "System is in Performance mode"
+msgstr "システムはパフォーマンスモードです"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Power Save mode"
+msgid_plural "%1 applications have requested activating Power Save mode"
+msgstr[0] "アプリケーションが省電力モードのアクティブ化を要求しました,%1 アプリケーションが省電力モードのアクティブ化を要求しました"
+
+#: ../contents/ui/main.qml
+msgid "System is in Power Save mode"
+msgstr "システムは省電力モードです"
+
+#: ../contents/ui/main.qml
+msgid "Scroll to adjust screen brightness"
+msgstr "スクロールして画面の明るさを調整する"
+
+#: ../contents/ui/main.qml
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "バッテリアプレットにより、システム全体の抑制が可能"
+
+#: ../contents/ui/main.qml
+msgid "Battery and Brightness"
+msgstr "バッテリーと明るさ"
+
+#: ../contents/ui/main.qml
+msgid "Failed to activate %1 mode"
+msgstr "%1 モードをアクティブ化できませんでした"
+
+#: ../contents/ui/main.qml
+msgid "&Show Energy Information…"
+msgstr "エネルギー情報を表示..."
+
+#: ../contents/ui/main.qml
+msgid "Show Battery Percentage on Icon When Not Fully Charged"
+msgstr "完全に充電されていないときにアイコンにバッテリーのパーセンテージを表示する"
+
+#: ../contents/ui/main.qml
+msgid "&Configure Energy Saving…"
+msgstr "&省エネの設定..."
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Display Brightness"
+msgstr "ディスプレイの明るさ"
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Keyboard Brightness"
+msgstr "キーボードの明るさ"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 application is currently blocking sleep and screen locking:"
+msgid_plural "%1 applications are currently blocking sleep and screen locking:"
+msgstr[0] "%1 アプリケーションは現在スリープと画面ロックをブロックしています:,%1 アプリケーションはスリープと画面ロックをブロックしています:"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (%2)"
+msgstr "%1 は現在スリープと画面ロックをブロックしています (%2)"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
+msgstr "%1 は現在スリープと画面のロックをブロックしています (不明な理由)"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Save"
+msgstr "省電力"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Balanced"
+msgstr "バランス"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance"
+msgstr "パフォーマンス"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Profile"
+msgstr "電力プロファイル"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
+msgstr "パフォーマンスモードは、コンピューターが膝の上に座っている可能性があることを検出したため、発熱を減らすために無効になっています。"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "コンピューターの動作が熱すぎるため、パフォーマンス モードは使用できません。"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable."
+msgstr "パフォーマンス モードは使用できません。"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
+msgstr "発熱を抑えるために、コンピュータが膝の上に座っている可能性があることを検出したため、パフォーマンスが低下する場合があります。"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced because the computer is running too hot."
+msgstr "コンピューターの動作が熱すぎるため、パフォーマンスが低下する可能性があります。"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced."
+msgstr "パフォーマンスが低下する可能性があります。"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "One application has requested activating %2:"
+msgid_plural "%1 applications have requested activating %2:"
+msgstr[0] "1 つのアプリケーションが %2 のアクティブ化を要求しました:,%1 アプリケーションが %2 のアクティブ化を要求しました:"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/BatteryItem.qml
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "推定。。。"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/Handler/logic.js
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "存在しない"
+
+#: ../contents/ui/main.qml
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1 (フル充電まで)"
+
+#: ../contents/ui/main.qml
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "残り %1"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "睡眠と画面ロックを手動でブロックする"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr "ラップトップは、外部モニターが接続されているときに蓋を閉じるときにスリープしないように構成されています。"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: 不明な理由"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"

@@ -1,0 +1,307 @@
+# Translation of batteryandperformance in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the batteryandperformance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: batteryandperformance\n"
+"Report-Msgid-Bugs-To: https://github.com/biglinux/biglinux-plasmoids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Biglinux baterija, svjetlina i performanse sustava"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Pogledajte stanje napajanja baterije i upravljajte performansama"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
+msgstr "Stanje baterije je samo %1% i treba ga zamijeniti. Obratite se proizvođaču."
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Time To Full:"
+msgstr "Vrijeme do kraja:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Remaining Time:"
+msgstr "Preostalo vrijeme:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery Health:"
+msgstr "Zdravlje baterije:"
+
+#: ../contents/ui/BatteryItem.qml
+msgid "Battery is configured to charge up to approximately %1%."
+msgstr "Baterija je konfigurirana za punjenje do približno %1%."
+
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Onemogući efekte radne površine"
+
+#: ../contents/ui/Handler/logic.js ../contents/ui/main.qml
+msgid "Fully Charged"
+msgstr "Potpuno napunjeno"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Discharging"
+msgstr "Pražnjenje"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Charging"
+msgstr "Punjenje"
+
+#: ../contents/ui/Handler/logic.js
+msgid "Not Charging"
+msgstr "Ne puni se"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Biglinux baterija i svjetlina"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Svjetlina Biglinuxa"
+
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "biglinux baterija"
+
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Biglinux upravljanje energijom"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, not Charging"
+msgstr "Baterija na %1%, a ne punjenje"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, plugged in but still discharging"
+msgstr "Baterija na %1%, uključena je, ali se i dalje prazni"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%, Charging"
+msgstr "Baterija na %1%, Punjenje"
+
+#: ../contents/ui/main.qml
+msgid "Battery at %1%"
+msgstr "Baterija na %1%"
+
+#: ../contents/ui/main.qml
+msgid "The power supply is not powerful enough to charge the battery"
+msgstr "Napajanje nije dovoljno snažno za punjenje baterije"
+
+#: ../contents/ui/main.qml
+msgid "No Batteries Available"
+msgstr "Nema dostupnih baterija"
+
+#: ../contents/ui/main.qml
+msgid "Not charging"
+msgstr "Ne puni se"
+
+#: ../contents/ui/main.qml
+msgid "Automatic sleep and screen locking are disabled"
+msgstr "Onemogućeno je automatsko stanje mirovanja i zaključavanje zaslona"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Performance mode"
+msgid_plural "%1 applications have requested activating Performance mode"
+msgstr[0] ""
+"Aplikacija je zatražila aktiviranje načina performansi,%1 aplikacija zatražilo je aktiviranje "
+"načina rada performansi"
+
+#: ../contents/ui/main.qml
+msgid "System is in Performance mode"
+msgstr "Sustav je u načinu rada performansi"
+
+#: ../contents/ui/main.qml
+msgid "An application has requested activating Power Save mode"
+msgid_plural "%1 applications have requested activating Power Save mode"
+msgstr[0] ""
+"Aplikacija je zatražila aktiviranje načina uštede energije,%1 aplikacije zatražile su aktiviranje "
+"načina uštede energije"
+
+#: ../contents/ui/main.qml
+msgid "System is in Power Save mode"
+msgstr "Sustav je u načinu uštede energije"
+
+#: ../contents/ui/main.qml
+msgid "Scroll to adjust screen brightness"
+msgstr "Pomaknite se da biste prilagodili svjetlinu zaslona"
+
+#: ../contents/ui/main.qml
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "Aplet baterije omogućio je inhibiciju na razini cijelog sustava"
+
+#: ../contents/ui/main.qml
+msgid "Battery and Brightness"
+msgstr "Baterija i svjetlina"
+
+#: ../contents/ui/main.qml
+msgid "Failed to activate %1 mode"
+msgstr "Aktivacija načina rada %1 nije uspjela"
+
+#: ../contents/ui/main.qml
+msgid "&Show Energy Information…"
+msgstr "&Pokaži informacije o energiji..."
+
+#: ../contents/ui/main.qml
+msgid "Show Battery Percentage on Icon When Not Fully Charged"
+msgstr "Pokaži postotak baterije na ikoni kada nije potpuno napunjen"
+
+#: ../contents/ui/main.qml
+msgid "&Configure Energy Saving…"
+msgstr "&Konfiguriranje uštede energije..."
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Display Brightness"
+msgstr "Svjetlina zaslona"
+
+#: ../contents/ui/PopupDialog.qml
+msgid "Keyboard Brightness"
+msgstr "Svjetlina tipkovnice"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 application is currently blocking sleep and screen locking:"
+msgid_plural "%1 applications are currently blocking sleep and screen locking:"
+msgstr[0] ""
+"Aplikacija %1 trenutno blokira stanje mirovanja i zaključavanje zaslona:,%1 aplikacija trenutno "
+"blokira stanje mirovanja i zaključavanje zaslona:"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (%2)"
+msgstr "%1 trenutno blokira stanje mirovanja i zaključavanje zaslona (%2)"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
+msgstr "%1 trenutno blokira zaključavanje stanja mirovanja i zaslona (nepoznat razlog)"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Save"
+msgstr "Ušteda energije"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Balanced"
+msgstr "Uravnotežen"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance"
+msgstr "Izvedba"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Power Profile"
+msgstr "Profil napajanja"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
+msgstr ""
+"Način rada s performansama onemogućen je kako bi se smanjila proizvodnja topline jer je računalo "
+"otkrilo da možda sjedi u vašem krilu."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "Način rada s performansama nije dostupan jer je računalo prevruće."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance mode is unavailable."
+msgstr "Način rada performansi nije dostupan."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid ""
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
+msgstr ""
+"Performanse se mogu smanjiti kako bi se smanjila proizvodnja topline jer je računalo otkrilo da "
+"možda sjedi u vašem krilu."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced because the computer is running too hot."
+msgstr "Performanse se mogu smanjiti jer računalo radi prevruće."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "Performance may be reduced."
+msgstr "Performanse se mogu smanjiti."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgid "One application has requested activating %2:"
+msgid_plural "%1 applications have requested activating %2:"
+msgstr[0] "Jedna je aplikacija zatražila aktivaciju %2:,%1 aplikacija zatražilo je aktivaciju %2:"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/BatteryItem.qml
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "Procjeni..."
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/CompactRepresentation.qml
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: ../contents/ui/Handler/logic.js
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Nije prisutno"
+
+#: ../contents/ui/main.qml
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1 dok se potpuno ne napuni"
+
+#: ../contents/ui/main.qml
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "Preostalo je %1"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "Ručno blokiranje stanja mirovanja i zaključavanja zaslona"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr ""
+"Prijenosno računalo konfigurirano je da ne miruje prilikom zatvaranja poklopca dok je spojen "
+"vanjski monitor."
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: ../contents/ui/PowerManagementItem.qml
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: nepoznat razlog"
+
+#: ../contents/ui/PowerProfileItem.qml
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"
