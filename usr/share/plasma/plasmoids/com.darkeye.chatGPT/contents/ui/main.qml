@@ -19,7 +19,7 @@ Item {
     property bool themeMismatch: false;
     property int nextReloadTime: 0
     property int reloadRetries: 0
-    ;
+    
     // Plasmoid.backgroundHints: plasmoid.configuration.showBackground ? PlasmaCore.Types.DefaultBackground : PlasmaCore.Types.NoBackground
     Plasmoid.compactRepresentation: Item {
         anchors.fill:parent
