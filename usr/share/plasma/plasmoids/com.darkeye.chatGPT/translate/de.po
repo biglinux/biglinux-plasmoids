@@ -1,0 +1,71 @@
+# Translation of chatGPT in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the chatGPT package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: chatGPT\n"
+"Report-Msgid-Bugs-To: https://github.com/dark-eye/com.darkeye.chatGPT\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "ChatGPT plasmoid for Plasma"
+msgstr "ChatGPT-Plasmoid für Plasma"
+
+#: ../metadata.desktop
+msgid "ChatGPT"
+msgstr "ChatGPT"
+
+#: ../contents/config/config.qml
+msgid "General"
+msgstr "Allgemein"
+
+#: ../contents/ui/configGeneral.qml
+msgid "Send On Enter"
+msgstr "Senden bei Eingabe"
+
+#: ../contents/ui/configGeneral.qml
+msgid "When checked pressing Enter will send the query to ChatGPT."
+msgstr "Wenn diese Option aktiviert ist, wird die Eingabetaste an ChatGPT gesendet."
+
+#: ../contents/ui/configGeneral.qml
+msgid "For now please reload the page with the 'Reload' Button after changing this configuration."
+msgstr ""
+"Für den Moment laden Sie bitte die Seite mit dem 'Reload'-Button neu, nachdem Sie diese "
+"Konfiguration geändert haben."
+
+#: ../contents/ui/configGeneral.qml
+msgid "Match OS theme"
+msgstr "Match OS-Design"
+
+#: ../contents/ui/main.qml
+msgid "Chat-GPT"
+msgstr "Chat-GPT"
+
+#: ../contents/ui/main.qml
+msgid "Paste the accesss link that was send to your email."
+msgstr "Fügen Sie den Zugriffslink ein, der an Ihre E-Mail gesendet wurde."
+
+#: ../contents/ui/main.qml
+msgid "Reload"
+msgstr "Nachladen"
+
+#: ../contents/ui/main.qml
+msgid "Im a Pro"
+msgstr "Ich bin ein Profi"
+
+#: ../contents/ui/main.qml
+msgid "Back to ChatGPT"
+msgstr "Zurück zu ChatGPT"
+
+#: ../contents/ui/main.qml
+msgid "Debug"
+msgstr "Debuggen"

@@ -1,0 +1,71 @@
+# Translation of chatGPT in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the chatGPT package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: chatGPT\n"
+"Report-Msgid-Bugs-To: https://github.com/dark-eye/com.darkeye.chatGPT\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+#: ../metadata.desktop
+msgid "ChatGPT plasmoid for Plasma"
+msgstr "Plasmoid ChatGPT pentru plasmă"
+
+#: ../metadata.desktop
+msgid "ChatGPT"
+msgstr "ChatGPT"
+
+#: ../contents/config/config.qml
+msgid "General"
+msgstr "General"
+
+#: ../contents/ui/configGeneral.qml
+msgid "Send On Enter"
+msgstr "Trimitere pe Enter"
+
+#: ../contents/ui/configGeneral.qml
+msgid "When checked pressing Enter will send the query to ChatGPT."
+msgstr "Când este bifată, apăsarea tastei Enter va trimite interogarea la ChatGPT."
+
+#: ../contents/ui/configGeneral.qml
+msgid "For now please reload the page with the 'Reload' Button after changing this configuration."
+msgstr ""
+"Pentru moment, vă rugăm să reîncărcați pagina cu butonul \"Reîncărcare\" după schimbarea acestei "
+"configurații."
+
+#: ../contents/ui/configGeneral.qml
+msgid "Match OS theme"
+msgstr "Tema Match OS"
+
+#: ../contents/ui/main.qml
+msgid "Chat-GPT"
+msgstr "Chat-GPT"
+
+#: ../contents/ui/main.qml
+msgid "Paste the accesss link that was send to your email."
+msgstr "Lipiți linkul accesări care a fost trimis la e-mail."
+
+#: ../contents/ui/main.qml
+msgid "Reload"
+msgstr "Reîncărca"
+
+#: ../contents/ui/main.qml
+msgid "Im a Pro"
+msgstr "Im un Pro"
+
+#: ../contents/ui/main.qml
+msgid "Back to ChatGPT"
+msgstr "Înapoi la ChatGPT"
+
+#: ../contents/ui/main.qml
+msgid "Debug"
+msgstr "Depanare"
