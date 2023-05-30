@@ -24,13 +24,12 @@ Item {
         id: kwindowsystem
     }
     property bool compActive: kwindowsystem.compositingActive
-    property alias cfg_toggleDesktopEffect: disableEffectsCheckBox.checked
             
     PlasmaComponents3.CheckBox {
         id: disableEffectsCheckBox
         Layout.fillWidth: true
-        onCheckedChanged: Logic.toggleCompositing()
-        checked: Plasmoid.configuration.toggleDesktopEffect 
+        onClicked: Logic.toggleCompositing()
+        checked: compActive == true ? false : true
         text: i18n("Disable desktop effects")
         focus: true
         KeyNavigation.down: pmSwitch.pmCheckBox
