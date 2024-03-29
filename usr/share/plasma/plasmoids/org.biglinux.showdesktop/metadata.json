@@ -1,0 +1,60 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "bigbruno@gmail.com",
+                "Name": "Bruno Goncalves"
+            },
+            {
+                "Email": "rruscher@gmail.com",
+                "Name": "Rafael Ruscher"
+            }
+        ],
+        "Category": "Windows and Tasks",
+        "Description": "Show desktop",
+        "EnabledByDefault": true,
+        "Icon": "window-minimize-symbolic",
+        "Id": "org.biglinux.showdesktop",
+        "License": "GPL-2.0+",
+        "Name": "Small icon for minimize all windows",
+        "Name[bg]": "Малка икона за минимизиране на всички прозорци",
+        "Name[cs]": "Malá ikona pro minimalizaci všech oken",
+        "Name[da]": "Lille ikon for at minimere alle vinduer",
+        "Name[de]": "Kleines Symbol zum Minimieren aller Fenster",
+        "Name[el]": "Μικρό εικονίδιο για ελαχιστοποίηση όλων των παραθύρων",
+        "Name[es]": "Pequeño icono para minimizar todas las ventanas",
+        "Name[et]": "Väike ikoon kõikide akende minimeerimiseks",
+        "Name[fi]": "Pieni kuvake kaikkien ikkunoiden pienentämiseksi",
+        "Name[fr]": "Petite icône pour minimiser toutes les fenêtres",
+        "Name[he]": "סמל קטן למזעור כל החלונות",
+        "Name[hr]": "Mali simbol za minimiziranje svih prozora",
+        "Name[hu]": "Kis ikon az összes ablak minimalizálásához",
+        "Name[is]": "Lítið tákn til að minnka öll glugga",
+        "Name[it]": "Piccola icona per minimizzare tutte le finestre",
+        "Name[ja]": "すべてのウィンドウを最小化するための小さなアイコン",
+        "Name[ko]": "모든 창을 최소화하기 위한 작은 아이콘",
+        "Name[nl]": "Klein pictogram om alle vensters te minimaliseren",
+        "Name[no]": "Lite ikon for å minimere alle vinduer",
+        "Name[pl]": "Mała ikona do minimalizowania wszystkich okien",
+        "Name[pt]": "Pequeno ícone para minimizar todas as janelas",
+        "Name[pt_BR]": "Pequeno ícone de minimizar todas as janelas",
+        "Name[ro]": "Pictogramă mică pentru a minimiza toate ferestrele",
+        "Name[ru]": "Маленький значок для минимизации всех окон",
+        "Name[sk]": "Malá ikona na minimalizáciu všetkých okien",
+        "Name[sv]": "Liten ikon för att minimera alla fönster",
+        "Name[tr]": "Tüm pencereleri küçültmek için küçük simge",
+        "Name[uk]": "Маленький значок для мінімізації всіх вікон",
+        "Name[zh]": "最小化所有窗口的小图标",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-Provides": [
+        "org.biglinux.showdesktop"
+    ],
+    "X-Plasma-OptionalExtensions": "LaunchApp"
+}
