@@ -8,7 +8,7 @@
         ],
         "Category": "Online Services",
         "Description": "Add a ChatGPT desktop.",
-        "Icon": "applications-internet",
+        "Icon": "ChatGPT",
         "Id": "org.biglinux.ChatGPT",
         "License": "GPL-2.0+",
         "Name": "ChatGPT",

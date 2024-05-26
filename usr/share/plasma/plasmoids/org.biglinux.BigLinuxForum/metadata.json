@@ -8,7 +8,7 @@
         ],
         "Category": "Online Services",
         "Description": "Add a BigLinuxForum desktop.",
-        "Icon": "applications-internet",
+        "Icon": "BigLinuxForum",
         "Id": "org.biglinux.BigLinuxForum",
         "License": "GPL-2.0+",
         "Name": "BigLinuxForum",
