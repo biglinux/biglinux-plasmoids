@@ -8,7 +8,7 @@
         ],
         "Category": "Online Services",
         "Description": "Add a Base desktop.",
-        "Icon": "applications-internet",
+        "Icon": "Base",
         "Id": "org.biglinux.Base",
         "License": "GPL-2.0+",
         "Name": "Base",
