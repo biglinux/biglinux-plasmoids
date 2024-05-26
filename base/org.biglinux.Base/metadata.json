@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "samirgaire10"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Add a Base desktop.",
+        "Icon": "applications-internet",
+        "Id": "org.biglinux.Base",
+        "License": "GPL-2.0+",
+        "Name": "Base",
+        "Website": "https://github.com/samirgaire10",
+        "github": "https://github.com/biglinux/biglinux-plasmoids"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

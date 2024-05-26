@@ -1,0 +1,9 @@
+chatgpt() {
+Name=ChatGPT
+URL=https://chatgpt.com
+}
+
+biglinuxForum() {
+Name=BigLinuxForum
+URL=https://forum.biglinux.com.br
+}

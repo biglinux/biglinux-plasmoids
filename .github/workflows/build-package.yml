@@ -11,6 +11,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Make New widgets
+        shell: bash
+        run: |
+          source widgets_list
+          for widget in $(grep -oP '^\w+(?=\(\))' widgets_list); do
+            $widget
+            if [ ! -d "usr/share/plasma/plasmoids/org.biglinux.$Name" ]; then
+              mkdir -p usr/share/plasma/plasmoids/org.biglinux.$Name
+            fi
+            cp -rf base/org.biglinux.Base/* usr/share/plasma/plasmoids/org.biglinux.$Name/
+            sed -i "s/Base/$Name/" "usr/share/plasma/plasmoids/org.biglinux.$Name/metadata.json"
+            URL=$(sed 's/\//\\\//g' <<< $URL)
+            sed -i "s/URL/$URL/" "usr/share/plasma/plasmoids/org.biglinux.$Name/contents/config/main.xml"
+            cp -f icons/$Name.* usr/share/icons/hicolor/scalable/apps/
+          done
+
+      - name: Update github
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add --all
+          if [ -n "$(git commit -m "Make Widgets $(date +%y-%m-%d_%H:%M)" -a | grep "nothing to commit")" ];then exit 0; fi
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
       - name: Send Hooks BigLinux Build Package
         shell: bash
         run: |
