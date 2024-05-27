@@ -7,3 +7,8 @@ biglinuxForum() {
 Name=BigLinuxForum
 URL=https://forum.biglinux.com.br
 }
+
+GoogleTranslate() {
+Name=GoogleTranslate
+URL=https://translate.google.com
+}
