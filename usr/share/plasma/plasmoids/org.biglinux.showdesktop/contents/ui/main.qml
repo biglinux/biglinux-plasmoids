@@ -23,8 +23,8 @@ PlasmoidItem {
     readonly property bool horizontal: plasmoid.formFactor === PlasmaCore.Types.Horizontal
 
     // Minimum width and height for the layout
-    Layout.minimumWidth:  5
-    Layout.minimumHeight: 5
+    Layout.minimumWidth:  6
+    Layout.minimumHeight: 6
 
     // Set the preferred representation of the plasmoid
     preferredRepresentation: fullRepresentation
